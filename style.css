@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+button#openChat {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 16px;
+  background: #d4f4e0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
